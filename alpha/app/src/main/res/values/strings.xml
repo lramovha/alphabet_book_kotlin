@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">alpha</string>
+    <string name="imgDescription">alpha</string>
+    <string name="letter_A">A</string>
+    <string name="letter_B">B</string>
+    <string name="letter_C">C</string>
+    <string name="letter_D">D</string>
+    <string name="letter_E">E</string>
+    <string name="letter_F">F</string>
+    <string name="letter_G">G</string>
+    <string name="letter_H">H</string>
+    <string name="letter_I">I</string>
+    <string name="letter_J">J</string>
+    <string name="letter_K">K</string>
+    <string name="letter_L">L</string>
+    <string name="letter_M">M</string>
+    <string name="letter_N">N</string>
+    <string name="letter_O">O</string>
+    <string name="letter_P">P</string>
+    <string name="letter_Q">Q</string>
+    <string name="letter_R">R</string>
+    <string name="letter_S">S</string>
+    <string name="letter_T">T</string>
+    <string name="letter_U">U</string>
+    <string name="letter_V">V</string>
+    <string name="letter_W">W</string>
+    <string name="letter_X">X</string>
+    <string name="letter_Y">Y</string>
+    <string name="letter_Z">Z</string>
+</resources>
